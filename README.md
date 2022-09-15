@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @RoboTech017
 - 👀 I’m interested in Embedded System and Design
-- 🌱 I’m currently learning and studying datasheets of ICs
+- 🌱 I’m currently learning 
+- 
 
 
 
